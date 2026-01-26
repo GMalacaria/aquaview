@@ -13,6 +13,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          ref: ${{ github.head_ref }}
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -23,9 +24,11 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Commitlint
-        run: npx commitlint --from=${{ github.event.pull_request.base.ref }} --to=HEAD
-
+      - uses: gsactions/commit-message-checker@v2
+        with:
+          pattern: '^(feat|fix|chore|docs)\(?.*\)?: .+'
+          error: 'Commit message must follow Conventional Commits.'
+      
       - name: Build
         run: npm run build
 
