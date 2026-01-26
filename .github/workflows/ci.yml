@@ -26,9 +26,9 @@ jobs:
 
       - uses: gsactions/commit-message-checker@v2
         with:
-          pattern: '^(feat|fix|chore|docs)\(?.*\)?: .+'
-          error: 'Commit message must follow Conventional Commits.'
-      
+          pattern: '^(feat|fix|chore|docs)(\([a-zA-Z0-9_-]+\))?: .+'
+          error: "Commit message must follow Conventional Commits."
+
       - name: Build
         run: npm run build
 
