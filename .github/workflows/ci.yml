@@ -22,7 +22,7 @@ jobs:
         run: npm ci
 
       - name: Commitlint
-        run: npx commitlint --from=origin/main --to=HEAD
+        run: npx commitlint --from=origin/master --to=HEAD
 
       - name: Build
         run: npm run build
