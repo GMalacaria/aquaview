@@ -62,17 +62,11 @@ const Header = () => {
               href="/"
               underline="none"
               color="inherit"
+              className="header-logo"
               aria-label={t('go_home', 'Vai alla homepage')}
             >
-              <Typography variant="h6" className="header-logo">
-                {t('aquaview_giannutri')}
-                <Box
-                  component="img"
-                  src={GiannutriLogo}
-                  alt="Isola di Giannutri"
-                  className="header__island"
-                />
-              </Typography>
+              <Typography variant="h6">{t('aquaview_giannutri')}</Typography>
+              <Box component="img" src={GiannutriLogo} alt="Isola di Giannutri" />
             </Link>
           </Box>
 
@@ -173,7 +167,7 @@ const Header = () => {
             {t('home', 'Home')}
           </Button>
 
-          <Button component="a" href="/" onClick={() => setDrawerOpen(false)}>
+          <Button component="a" href="/#ours-apartments" onClick={() => setDrawerOpen(false)}>
             {t('ours_apartments')}
           </Button>
 

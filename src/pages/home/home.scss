@@ -30,6 +30,9 @@
       font-family: 'syne', $font-main;
       margin-bottom: 2rem;
       animation: growIn 1.2s cubic-bezier(0.23, 1, 0.32, 1);
+      @media (max-width: 900px) {
+        font-size: 2.5rem;
+      }
     }
     .home-hero-sub {
       font-weight: bold;
@@ -48,9 +51,13 @@
   flex-direction: column;
   background-color: $bg-light;
   position: relative;
-  height: 340px;
+  height: auto;
   overflow: hidden;
-  width: 100%;
+  padding: 64px;
+  @media (max-width: 900px) {
+    display: block;
+    padding: 32px;
+  }
   .home-welcome-content {
     max-width: 700px;
     margin: auto;
@@ -59,8 +66,7 @@
     align-items: center;
     justify-content: center;
     animation: fadeIn 1.5s ease;
-    padding-left: 36px;
-    padding-right: 36px;
+
     .home-welcome-title {
       margin-bottom: 2rem;
     }
@@ -72,11 +78,15 @@
 
 .home-cards-section {
   background-color: $bg-cards;
-  padding: 64px 0;
+  padding: 64px 8px;
+
+  @media (max-width: 900px) {
+    padding: 64px 16px;
+  }
   .home-cards-title {
     margin-bottom: 48px;
     font-weight: 700;
-    font-family: 'syne', $font-main;
+    font-size: x-large;
     text-align: center;
   }
   .home-card {
@@ -108,15 +118,45 @@
   }
 }
 
+.aquaview-section {
+  background-color: $bg-cards;
+
+  img {
+    display: block;
+  }
+  p {
+    line-height: 2.5;
+    svg {
+      margin: auto 8px;
+      vertical-align: sub;
+    }
+  }
+  @media (max-width: 900px) {
+    img {
+      display: none;
+    }
+    p {
+      text-align: center;
+    }
+  }
+}
+
 .giannutri-section {
   display: flex;
   flex-direction: row;
   background: linear-gradient(90deg, #1e3c72 0%, #2a5298 100%);
   color: #fff;
-  padding: 80px 64px;
   align-items: center;
   justify-content: center;
-  min-height: 340px;
+  min-height: 400px;
+  max-width: none;
+  @media (max-width: 900px) {
+    text-align: center;
+    .giannutri-bar {
+      margin: auto;
+    }
+  }
+
   .giannutri-title {
     font-size: 3.5rem;
     font-weight: 700;
@@ -124,6 +164,9 @@
     color: #fff;
     margin-bottom: 2rem;
     text-shadow: 0 2px 16px #000;
+    @media (max-width: 900px) {
+      font-size: 2rem;
+    }
   }
   .giannutri-bar {
     width: 60px;

@@ -7,4 +7,7 @@ textarea {
 
 #form {
   background-color: $bg-cards;
+  @media (max-width: 900px) {
+    background-color: white;
+  }
 }

@@ -51,9 +51,11 @@ header,
   }
 
   .header-logo {
-    font-weight: 800 !important;
     display: flex;
 
+    h6 {
+      font-weight: 800 !important;
+    }
     img {
       width: 32px;
       height: 32px;
@@ -105,7 +107,26 @@ header,
   }
 
   /* MOBILE */
+  @media (max-width: 400px) {
+    .header-logo {
+      justify-content: space-evenly;
+      img {
+        margin: auto;
+      }
+      h6 {
+        width: min-content;
+      }
+    }
+  }
+
   @media (max-width: 900px) {
+    .header-logo {
+      justify-content: space-evenly;
+      img {
+        margin: auto;
+      }
+    }
+
     #main-navigation {
       display: none;
     }

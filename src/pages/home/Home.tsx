@@ -10,7 +10,7 @@ import {
 } from '../../components/card-appartament/CardAppartament';
 import GiannutriLogo from '../../assets/Giannutri-logo.png';
 import ContactFormSection from '../../components/contacts/ContactsForm';
-
+import DoneIcon from '@mui/icons-material/Done';
 const apartments: ItemAppartament[] = [
   {
     name: 'Aquaview 30',
@@ -94,14 +94,22 @@ const Home = () => {
         </Typography>
         <Grid container spacing={4} justifyContent="center">
           {apartments.map((appartament, index) => (
-            <Grid item xs={12} md={4}>
+            <Grid item size={{ xs: 12, md: 4 }}>
               <CardAppartament key={index} inView={inView} appartament={appartament} />
             </Grid>
           ))}
         </Grid>
       </div>
-      <div className="giannutri-section">
-        <div style={{ flex: 1, minWidth: 280, marginRight: 32 }}>
+      <Grid
+        container
+        className="giannutri-section"
+        spacing={2}
+        p={{ xs: 4, md: 8 }}
+        alignItems="center"
+        justifyContent={'space-between'}
+      >
+        {/* TESTO */}
+        <Grid item size={{ xs: 12, md: 6 }}>
           <Typography variant="h2" className="giannutri-title">
             {t('giannutri_island')}
           </Typography>
@@ -109,8 +117,8 @@ const Home = () => {
           <Button variant="contained" color="secondary" href="/giannutri" className="giannutri-btn">
             {t('discovery_island')}
           </Button>
-        </div>
-        <div style={{ flex: 2, minWidth: 280 }}>
+        </Grid>
+        <Grid item size={{ xs: 12, md: 6 }}>
           <Typography variant="h5" className="giannutri-subtitle">
             {t('discovery_island_title')}
           </Typography>
@@ -120,52 +128,64 @@ const Home = () => {
           <Typography variant="body1" className="giannutri-body">
             {t('discovery_island_body2')}
           </Typography>
-        </div>
-      </div>
-      <Box component="section" p={6} className="home-cards-section">
-        <Container>
-          <Grid container spacing={2} alignItems="center" justifyContent={'space-between'}>
-            {/* TESTO */}
-            <Grid item xs={12} md={10}>
-              <Typography variant="h5" fontWeight={700} gutterBottom sx={{ color: '#14242d' }}>
-                {t('why_aquaview')}
-              </Typography>
+        </Grid>
+      </Grid>
+      <Grid
+        container
+        className="aquaview-section"
+        spacing={{ xs: 1, md: 2 }}
+        p={{ xs: 4, md: 8 }}
+        alignItems="center"
+        justifyContent={'space-between'}
+      >
+        {/* TESTO */}
+        <Grid item size={{ xs: 12, md: 6 }}>
+          <Box sx={{ xs: { textAlign: 'center' }, md: {} }}>
+            <Typography
+              variant="h5"
+              fontWeight={700}
+              gutterBottom
+              sx={{ md: { color: '#14242d' } }}
+              textAlign={{ xs: 'center' }}
+            >
+              {t('why_aquaview')}
+            </Typography>
 
-              <Typography component="ul" sx={{ pl: 2, mb: 4, lineHeight: 2.5 }}>
-                {[
-                  'why_aquaview_direct_contact',
-                  'why_aquaview_selected_apartments',
-                  'why_aquaview_assistance',
-                  'why_aquaview_experience',
-                ].map((text) => (
-                  <li key={text}>
-                    <Typography component="span">{t(text)}</Typography>
-                  </li>
-                ))}
-              </Typography>
+            <Box>
+              {[
+                'why_aquaview_direct_contact',
+                'why_aquaview_selected_apartments',
+                'why_aquaview_assistance',
+                'why_aquaview_experience',
+              ].map((text) => (
+                <Typography key={text} component="p" display={'block'}>
+                  <DoneIcon /> {t(text)}
+                </Typography>
+              ))}
+            </Box>
+          </Box>
+          <Box textAlign={{ xs: 'center' }} pt={{ xs: 4 }}>
+            <Button
+              variant="contained"
+              color="secondary"
+              href="/chi-siamo"
+              className="giannutri-btn"
+            >
+              {t('who_are')}
+            </Button>
+          </Box>
+        </Grid>
 
-              <Button
-                variant="contained"
-                color="secondary"
-                href="/chi-siamo"
-                className="giannutri-btn"
-              >
-                {t('who_are')}
-              </Button>
-            </Grid>
-
-            {/* IMMAGINE */}
-            <Grid item xs={12} md={2}>
-              <Box
-                component="img"
-                src={GiannutriLogo}
-                alt="Isola di Giannutri"
-                className="header__island"
-              />
-            </Grid>
-          </Grid>
-        </Container>
-      </Box>
+        {/* IMMAGINE */}
+        <Grid item size={{ xs: 6, md: 6 }}>
+          <Box
+            component="img"
+            src={GiannutriLogo}
+            alt="Isola di Giannutri"
+            className="header__island"
+          />
+        </Grid>
+      </Grid>
 
       <ContactFormSection object={'Ti contatto dalla Home'} />
     </>
