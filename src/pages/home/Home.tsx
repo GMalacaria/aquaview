@@ -70,10 +70,7 @@ const Home = () => {
           <Typography variant="subtitle2" align="center" className="home-hero-sub">
             {t('home_subtitle')}
           </Typography>
-          <Button
-            variant="contained"
-            href="https://AquaViewgiannutri.wixsite.com/AquaView-giannutri"
-          >
+          <Button variant="contained" href="#contact">
             {t('contact_us')}
           </Button>
         </div>
@@ -91,7 +88,7 @@ const Home = () => {
           </Typography>
         </div>
       </div>
-      <div id="appartamenti" className="home-cards-section" ref={ref}>
+      <div id="ours-apartments" className="home-cards-section" ref={ref}>
         <Typography variant="h3" className="home-cards-title">
           {t('ours_apartments')}
         </Typography>
@@ -109,13 +106,7 @@ const Home = () => {
             {t('giannutri_island')}
           </Typography>
           <div className="giannutri-bar" />
-          <Button
-            variant="contained"
-            color="secondary"
-            href="/giannutri"
-            className="giannutri-btn"
-            endIcon={<ArrowForwardIcon />}
-          >
+          <Button variant="contained" color="secondary" href="/giannutri" className="giannutri-btn">
             {t('discovery_island')}
           </Button>
         </div>
@@ -158,7 +149,6 @@ const Home = () => {
                 color="secondary"
                 href="/chi-siamo"
                 className="giannutri-btn"
-                endIcon={<ArrowForwardIcon />}
               >
                 {t('who_are')}
               </Button>

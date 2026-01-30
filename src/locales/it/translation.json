@@ -1,12 +1,14 @@
 {
+  "aquaview_giannutri": "AquaView Giannutri",
   "privacy_title": "Privacy",
+  "privacy_policy": "Privacy Policy",
   "privacy_text": "Questa è la pagina Privacy.",
   "change_language": "Cambia lingua",
   "ours_apartments": "I nostri appartamenti",
   "who_are": "Chi siamo",
   "lang_it": "IT",
   "lang_en": "EN",
-  "header_home": "Home",
+  "home": "Home",
   "find_out_more": "Scopri di più",
   "panoramic_terrace": "Terrazzo panoramico",
   "beds": "posti letto",
@@ -16,6 +18,7 @@
   "home_title2": "per vacanze a Giannutri",
   "home_subtitle": "Soggiorni esclusivi sull’isola di Giannutri. Contatto diretto, senza intermediari.",
   "giannutri_island": "L’isola di Giannutri",
+  "giannutri": "Giannutri",
   "discovery_island": "Scopri l'isola",
   "contact_us": "Contattaci",
   "welcome_title": "Benvenuti ad AquaView Giannutri",
@@ -41,5 +44,7 @@
   "email_not_valid": "Email non valida",
   "message": "Messaggio",
   "message_required": "Messaggio obbligatorio",
-  "send_message": "Invia messaggio"
+  "send_message": "Invia messaggio",
+  "useful_links": "Link utili",
+  "aquaview_all_rights_reserved": "Giannutri Holidays. Tutti i diritti riservati."
 }

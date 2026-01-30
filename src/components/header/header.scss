@@ -13,6 +13,32 @@ header,
     color: black !important;
   }
 
+  a {
+    padding: 0 !important;
+    background: none !important;
+    text-transform: none !important;
+    position: relative !important;
+    width: max-content;
+    &:hover {
+      background: none !important;
+    }
+
+    &::after {
+      content: '' !important;
+      position: absolute !important;
+      bottom: -4px !important;
+      left: 0 !important;
+      width: 0% !important;
+      height: 2px !important;
+      background: black !important;
+      transition: width 0.25s ease !important;
+    }
+
+    &:hover::after {
+      width: 100% !important;
+    }
+  }
+
   .MuiToolbar-root .MuiToolbar-gutters .MuiToolbar-regular {
     justify-content: space-between !important;
   }
@@ -75,7 +101,7 @@ header,
   }
 
   #main-navigation {
-    display: bloc;
+    display: block;
   }
 
   /* MOBILE */
@@ -108,12 +134,13 @@ header,
     display: flex;
     align-items: center;
   }
-
   width: 240px !important;
   padding: 24px !important;
   display: flex !important;
   flex-direction: column !important;
   gap: 16px !important;
+  background-color: #dcedff !important;
+
   button {
     background-color: #dcedff !important;
     padding: 0 !important;

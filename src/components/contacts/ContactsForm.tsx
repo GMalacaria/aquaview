@@ -53,7 +53,7 @@ export default function ContactFormSection({ object }) {
     console.log({ object, ...payload });
   };
   return (
-    <Box component="section" sx={{ py: { xs: 6, md: 10 } }}>
+    <Box component="section" sx={{ py: { xs: 6, md: 10 } }} id="contact">
       <Container maxWidth="sm" id="form" sx={{ py: 3, borderRadius: 1 }}>
         <Typography variant="h5" fontWeight={700} align="center" gutterBottom>
           {t('contact_us')}

@@ -47,6 +47,7 @@ const Header = () => {
           {/* HAMBURGER – ACCESSIBILE */}
           <IconButton
             className="header__hamburger"
+            sx={{ bgcolor: 'white' }}
             onClick={() => setDrawerOpen(true)}
             aria-label={t('open_menu', 'Apri menu di navigazione')}
             aria-controls="mobile-navigation"
@@ -64,7 +65,7 @@ const Header = () => {
               aria-label={t('go_home', 'Vai alla homepage')}
             >
               <Typography variant="h6" className="header-logo">
-                {t('acquaview_giannutri', 'AquaView Giannutri')}
+                {t('aquaview_giannutri')}
                 <Box
                   component="img"
                   src={GiannutriLogo}
@@ -78,21 +79,20 @@ const Header = () => {
           {/* MENU DESKTOP – SEMANTICO */}
           <nav id="main-navigation" aria-label={t('main_navigation', 'Navigazione principale')}>
             <Stack direction="row" spacing={3} className="header__menu">
-              <Button component="a" href="/" className="nav-btn">
-                {t('header_home')}
-              </Button>
-
-              <Button component="a" href="/" className="nav-btn">
+              <Link href="/" color="inherit" underline="none">
+                {t('home')}
+              </Link>
+              <Link href="/#ours-apartments" color="inherit" underline="none">
                 {t('ours_apartments')}
-              </Button>
+              </Link>
 
-              <Button component="a" href="/giannutri" className="nav-btn">
-                {t('Giannutri')}
-              </Button>
+              <Link href="/giannutri" color="inherit" underline="none">
+                {t('giannutri')}
+              </Link>
 
-              <Button component="a" href="/chi-siamo" className="nav-btn">
+              <Link href="/chi-siamo" color="inherit" underline="none">
                 {t('who_are')}
-              </Button>
+              </Link>
             </Stack>
           </nav>
 
@@ -170,7 +170,7 @@ const Header = () => {
 
           {/* LINK NAVIGAZIONE */}
           <Button component="a" href="/" onClick={() => setDrawerOpen(false)}>
-            {t('header_home', 'Home')}
+            {t('home', 'Home')}
           </Button>
 
           <Button component="a" href="/" onClick={() => setDrawerOpen(false)}>
