@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-color: #DCEDFF;
+  background-color: #dcedff;
 }
 
 .App-logo {
@@ -26,12 +26,16 @@
 }
 
 body {
-  font-family:'madefor-text', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+  margin: 0;
+  font-family: 'madefor-text', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
 }
 
-button, .MuiButton-root {
-  transition: all 0.2s ease, visibility 0s !important;
-  background: #2891DA !important;
+button,
+.MuiButton-root {
+  transition:
+    all 0.2s ease,
+    visibility 0s !important;
+  background: #2891da !important;
   border-radius: 10px !important;
   border: none !important;
   box-shadow: none !important;
@@ -40,8 +44,8 @@ button, .MuiButton-root {
   padding: 6px 38px !important;
   text-transform: math-auto !important;
 }
-button,
-.MuiButton-root:hover{
+button:hover,
+.MuiButton-root:hover {
   color: #000000 !important;
 }
 
@@ -56,4 +60,8 @@ button,
   to {
     transform: rotate(360deg);
   }
+}
+
+html {
+  scroll-behavior: smooth;
 }

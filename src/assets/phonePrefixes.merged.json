@@ -1,0 +1,1939 @@
+[
+  {
+    "name": "Afghanistan",
+    "dial_code": "+93",
+    "code": "AF",
+    "sigla": "AFG",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Afghanistan_%282013%E2%80%932021%29.svg/40px-Flag_of_Afghanistan_%282013%E2%80%932021%29.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Afghanistan_%282013%E2%80%932021%29.svg/60px-Flag_of_Afghanistan_%282013%E2%80%932021%29.svg.png 2x"
+  },
+  {
+    "name": "United States",
+    "dial_code": "+1",
+    "code": "US",
+    "sigla": "USA",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/40px-Flag_of_the_United_States.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/60px-Flag_of_the_United_States.svg.png 2x"
+  },
+  {
+    "name": "Aland Islands",
+    "dial_code": "+358",
+    "code": "AX",
+    "sigla": "ALA",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Flag_of_%C3%85land.svg/40px-Flag_of_%C3%85land.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Flag_of_%C3%85land.svg/60px-Flag_of_%C3%85land.svg.png 2x"
+  },
+  {
+    "name": "Albania",
+    "dial_code": "+355",
+    "code": "AL",
+    "sigla": "ALB",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/40px-Flag_of_Albania.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/60px-Flag_of_Albania.svg.png 2x"
+  },
+  {
+    "name": "Algeria",
+    "dial_code": "+213",
+    "code": "DZ",
+    "sigla": "DZA",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/40px-Flag_of_Algeria.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/60px-Flag_of_Algeria.svg.png 2x"
+  },
+  {
+    "name": "AmericanSamoa",
+    "dial_code": "+1684",
+    "code": "AS",
+    "sigla": "ASM",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_American_Samoa.svg/40px-Flag_of_American_Samoa.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_American_Samoa.svg/60px-Flag_of_American_Samoa.svg.png 2x"
+  },
+  {
+    "name": "Andorra",
+    "dial_code": "+376",
+    "code": "AD",
+    "sigla": "AND",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/40px-Flag_of_Andorra.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/60px-Flag_of_Andorra.svg.png 2x"
+  },
+  {
+    "name": "Angola",
+    "dial_code": "+244",
+    "code": "AO",
+    "sigla": "AGO",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/40px-Flag_of_Angola.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/60px-Flag_of_Angola.svg.png 2x"
+  },
+  {
+    "name": "Anguilla",
+    "dial_code": "+1264",
+    "code": "AI",
+    "sigla": "AIA",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Anguilla.svg/40px-Flag_of_Anguilla.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Anguilla.svg/60px-Flag_of_Anguilla.svg.png 2x"
+  },
+  {
+    "name": "Antarctica",
+    "dial_code": "+672",
+    "code": "AQ",
+    "sigla": "ATA",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Proposed_flag_of_Antarctica_%28Graham_Bartram%29.svg/40px-Proposed_flag_of_Antarctica_%28Graham_Bartram%29.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Proposed_flag_of_Antarctica_%28Graham_Bartram%29.svg/40px-Proposed_flag_of_Antarctica_%28Graham_Bartram%29.svg.png 2x"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "dial_code": "+1268",
+    "code": "AG",
+    "sigla": "ATG",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/40px-Flag_of_Antigua_and_Barbuda.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/60px-Flag_of_Antigua_and_Barbuda.svg.png 2x"
+  },
+  {
+    "name": "Argentina",
+    "dial_code": "+54",
+    "code": "AR",
+    "sigla": "ARG",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/40px-Flag_of_Argentina.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/60px-Flag_of_Argentina.svg.png 2x"
+  },
+  {
+    "name": "Armenia",
+    "dial_code": "+374",
+    "code": "AM",
+    "sigla": "ARM",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/40px-Flag_of_Armenia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/60px-Flag_of_Armenia.svg.png 2x"
+  },
+  {
+    "name": "Aruba",
+    "dial_code": "+297",
+    "code": "AW",
+    "sigla": "ABW",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Aruba.svg/40px-Flag_of_Aruba.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Aruba.svg/60px-Flag_of_Aruba.svg.png 2x"
+  },
+  {
+    "name": "Australia",
+    "dial_code": "+61",
+    "code": "AU",
+    "sigla": "AUS",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/40px-Flag_of_Australia_%28converted%29.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/60px-Flag_of_Australia_%28converted%29.svg.png 2x"
+  },
+  {
+    "name": "Austria",
+    "dial_code": "+43",
+    "code": "AT",
+    "sigla": "AUT",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/40px-Flag_of_Austria.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/60px-Flag_of_Austria.svg.png 2x"
+  },
+  {
+    "name": "Azerbaijan",
+    "dial_code": "+994",
+    "code": "AZ",
+    "sigla": "AZE",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/40px-Flag_of_Azerbaijan.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/60px-Flag_of_Azerbaijan.svg.png 2x"
+  },
+  {
+    "name": "Bahamas",
+    "dial_code": "+1242",
+    "code": "BS",
+    "sigla": "BHS",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/40px-Flag_of_the_Bahamas.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/60px-Flag_of_the_Bahamas.svg.png 2x"
+  },
+  {
+    "name": "Bahrain",
+    "dial_code": "+973",
+    "code": "BH",
+    "sigla": "BHR",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/40px-Flag_of_Bahrain.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/60px-Flag_of_Bahrain.svg.png 2x"
+  },
+  {
+    "name": "Bangladesh",
+    "dial_code": "+880",
+    "code": "BD",
+    "sigla": "BGD",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/40px-Flag_of_Bangladesh.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/60px-Flag_of_Bangladesh.svg.png 2x"
+  },
+  {
+    "name": "Barbados",
+    "dial_code": "+1246",
+    "code": "BB",
+    "sigla": "BRB",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/40px-Flag_of_Barbados.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/60px-Flag_of_Barbados.svg.png 2x"
+  },
+  {
+    "name": "Belarus",
+    "dial_code": "+375",
+    "code": "BY",
+    "sigla": "BLR",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/40px-Flag_of_Belarus.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/60px-Flag_of_Belarus.svg.png 2x"
+  },
+  {
+    "name": "Belgium",
+    "dial_code": "+32",
+    "code": "BE",
+    "sigla": "BEL",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/40px-Flag_of_Belgium_%28civil%29.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/60px-Flag_of_Belgium_%28civil%29.svg.png 2x"
+  },
+  {
+    "name": "Belize",
+    "dial_code": "+501",
+    "code": "BZ",
+    "sigla": "BLZ",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/40px-Flag_of_Belize.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/60px-Flag_of_Belize.svg.png 2x"
+  },
+  {
+    "name": "Benin",
+    "dial_code": "+229",
+    "code": "BJ",
+    "sigla": "BEN",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/40px-Flag_of_Benin.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/60px-Flag_of_Benin.svg.png 2x"
+  },
+  {
+    "name": "Bermuda",
+    "dial_code": "+1441",
+    "code": "BM",
+    "sigla": "BMU",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bermuda.svg/40px-Flag_of_Bermuda.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bermuda.svg/60px-Flag_of_Bermuda.svg.png 2x"
+  },
+  {
+    "name": "Bhutan",
+    "dial_code": "+975",
+    "code": "BT",
+    "sigla": "BTN",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/40px-Flag_of_Bhutan.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/60px-Flag_of_Bhutan.svg.png 2x"
+  },
+  {
+    "name": "Bolivia, Plurinational State of",
+    "dial_code": "+591",
+    "code": "BO",
+    "sigla": "BOL",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/40px-Flag_of_Bolivia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/60px-Flag_of_Bolivia.svg.png 2x"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "dial_code": "+387",
+    "code": "BA",
+    "sigla": "BIH",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/60px-Flag_of_Bosnia_and_Herzegovina.svg.png 2x"
+  },
+  {
+    "name": "Botswana",
+    "dial_code": "+267",
+    "code": "BW",
+    "sigla": "BWA",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/40px-Flag_of_Botswana.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/60px-Flag_of_Botswana.svg.png 2x"
+  },
+  {
+    "name": "Brazil",
+    "dial_code": "+55",
+    "code": "BR",
+    "sigla": "BRA",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/40px-Flag_of_Brazil.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/60px-Flag_of_Brazil.svg.png 2x"
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "dial_code": "+246",
+    "code": "IO",
+    "sigla": "IOT",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg/40px-Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg/60px-Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg.png 2x"
+  },
+  {
+    "name": "Brunei Darussalam",
+    "dial_code": "+673",
+    "code": "BN",
+    "sigla": "BRN",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/40px-Flag_of_Brunei.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/60px-Flag_of_Brunei.svg.png 2x"
+  },
+  {
+    "name": "Bulgaria",
+    "dial_code": "+359",
+    "code": "BG",
+    "sigla": "BGR",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/40px-Flag_of_Bulgaria.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/60px-Flag_of_Bulgaria.svg.png 2x"
+  },
+  {
+    "name": "Burkina Faso",
+    "dial_code": "+226",
+    "code": "BF",
+    "sigla": "BFA",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/40px-Flag_of_Burkina_Faso.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/60px-Flag_of_Burkina_Faso.svg.png 2x"
+  },
+  {
+    "name": "Burundi",
+    "dial_code": "+257",
+    "code": "BI",
+    "sigla": "BDI",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/40px-Flag_of_Burundi.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/60px-Flag_of_Burundi.svg.png 2x"
+  },
+  {
+    "name": "Cambodia",
+    "dial_code": "+855",
+    "code": "KH",
+    "sigla": "KHM",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/40px-Flag_of_Cambodia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/60px-Flag_of_Cambodia.svg.png 2x"
+  },
+  {
+    "name": "Cameroon",
+    "dial_code": "+237",
+    "code": "CM",
+    "sigla": "CMR",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/40px-Flag_of_Cameroon.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/60px-Flag_of_Cameroon.svg.png 2x"
+  },
+  {
+    "name": "Canada",
+    "dial_code": "+1",
+    "code": "CA",
+    "sigla": "CAN",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/40px-Flag_of_Canada_%28Pantone%29.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/60px-Flag_of_Canada_%28Pantone%29.svg.png 2x"
+  },
+  {
+    "name": "Cape Verde",
+    "dial_code": "+238",
+    "code": "CV",
+    "sigla": "CPV",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/40px-Flag_of_Cape_Verde.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/60px-Flag_of_Cape_Verde.svg.png 2x"
+  },
+  {
+    "name": "Cayman Islands",
+    "dial_code": "+ 345",
+    "code": "KY",
+    "sigla": "CYM",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_the_Cayman_Islands.svg/40px-Flag_of_the_Cayman_Islands.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_the_Cayman_Islands.svg/60px-Flag_of_the_Cayman_Islands.svg.png 2x"
+  },
+  {
+    "name": "Central African Republic",
+    "dial_code": "+236",
+    "code": "CF",
+    "sigla": "CAF",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/40px-Flag_of_the_Central_African_Republic.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/60px-Flag_of_the_Central_African_Republic.svg.png 2x"
+  },
+  {
+    "name": "Chad",
+    "dial_code": "+235",
+    "code": "TD",
+    "sigla": "TCD",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/40px-Flag_of_Chad.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/60px-Flag_of_Chad.svg.png 2x"
+  },
+  {
+    "name": "Chile",
+    "dial_code": "+56",
+    "code": "CL",
+    "sigla": "CHL",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/40px-Flag_of_Chile.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/60px-Flag_of_Chile.svg.png 2x"
+  },
+  {
+    "name": "China",
+    "dial_code": "+86",
+    "code": "CN",
+    "sigla": "CHN",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/40px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/60px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x"
+  },
+  {
+    "name": "Christmas Island",
+    "dial_code": "+61",
+    "code": "CX",
+    "sigla": "CXR",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_Christmas_Island.svg/40px-Flag_of_Christmas_Island.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_Christmas_Island.svg/60px-Flag_of_Christmas_Island.svg.png 2x"
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "dial_code": "+61",
+    "code": "CC",
+    "sigla": "CCK",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_the_Cocos_%28Keeling%29_Island.png/40px-Flag_of_the_Cocos_%28Keeling%29_Island.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_the_Cocos_%28Keeling%29_Island.png/60px-Flag_of_the_Cocos_%28Keeling%29_Island.png 2x"
+  },
+  {
+    "name": "Colombia",
+    "dial_code": "+57",
+    "code": "CO",
+    "sigla": "COL",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/40px-Flag_of_Colombia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/60px-Flag_of_Colombia.svg.png 2x"
+  },
+  {
+    "name": "Comoros",
+    "dial_code": "+269",
+    "code": "KM",
+    "sigla": "COM",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/40px-Flag_of_the_Comoros.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/60px-Flag_of_the_Comoros.svg.png 2x"
+  },
+  {
+    "name": "Congo",
+    "dial_code": "+242",
+    "code": "CG",
+    "sigla": "COG",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/40px-Flag_of_the_Republic_of_the_Congo.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/60px-Flag_of_the_Republic_of_the_Congo.svg.png 2x"
+  },
+  {
+    "name": "Congo, The Democratic Republic of the Congo",
+    "dial_code": "+243",
+    "code": "CD",
+    "sigla": "COD",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/20px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/40px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png 1.5x"
+  },
+  {
+    "name": "Cook Islands",
+    "dial_code": "+682",
+    "code": "CK",
+    "sigla": "COK",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_the_Cook_Islands.svg/40px-Flag_of_the_Cook_Islands.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_the_Cook_Islands.svg/60px-Flag_of_the_Cook_Islands.svg.png 2x"
+  },
+  {
+    "name": "Costa Rica",
+    "dial_code": "+506",
+    "code": "CR",
+    "sigla": "CRI",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/40px-Flag_of_Costa_Rica.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/60px-Flag_of_Costa_Rica.svg.png 2x"
+  },
+  {
+    "name": "Cote d'Ivoire",
+    "dial_code": "+225",
+    "code": "CI",
+    "sigla": "CIV",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/40px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/60px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png 2x"
+  },
+  {
+    "name": "Croatia",
+    "dial_code": "+385",
+    "code": "HR",
+    "sigla": "HRV",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/40px-Flag_of_Croatia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/60px-Flag_of_Croatia.svg.png 2x"
+  },
+  {
+    "name": "Cuba",
+    "dial_code": "+53",
+    "code": "CU",
+    "sigla": "CUB",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/40px-Flag_of_Cuba.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/60px-Flag_of_Cuba.svg.png 2x"
+  },
+  {
+    "name": "Cyprus",
+    "dial_code": "+357",
+    "code": "CY",
+    "sigla": "CYP",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/40px-Flag_of_Cyprus.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/60px-Flag_of_Cyprus.svg.png 2x"
+  },
+  {
+    "name": "Czech Republic",
+    "dial_code": "+420",
+    "code": "CZ",
+    "sigla": "CZE",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/40px-Flag_of_the_Czech_Republic.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/60px-Flag_of_the_Czech_Republic.svg.png 2x"
+  },
+  {
+    "name": "Denmark",
+    "dial_code": "+45",
+    "code": "DK",
+    "sigla": "DNK",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/40px-Flag_of_Denmark.svg.png 1.5x"
+  },
+  {
+    "name": "Djibouti",
+    "dial_code": "+253",
+    "code": "DJ",
+    "sigla": "DJI",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/40px-Flag_of_Djibouti.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/60px-Flag_of_Djibouti.svg.png 2x"
+  },
+  {
+    "name": "Dominica",
+    "dial_code": "+1767",
+    "code": "DM",
+    "sigla": "DMA",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/40px-Flag_of_Dominica.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/60px-Flag_of_Dominica.svg.png 2x"
+  },
+  {
+    "name": "Dominican Republic",
+    "dial_code": "+1849",
+    "code": "DO",
+    "sigla": "DOM",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/40px-Flag_of_the_Dominican_Republic.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/60px-Flag_of_the_Dominican_Republic.svg.png 2x"
+  },
+  {
+    "name": "Ecuador",
+    "dial_code": "+593",
+    "code": "EC",
+    "sigla": "ECU",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/40px-Flag_of_Ecuador.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/60px-Flag_of_Ecuador.svg.png 2x"
+  },
+  {
+    "name": "Egypt",
+    "dial_code": "+20",
+    "code": "EG",
+    "sigla": "EGY",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/40px-Flag_of_Egypt.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/60px-Flag_of_Egypt.svg.png 2x"
+  },
+  {
+    "name": "El Salvador",
+    "dial_code": "+503",
+    "code": "SV",
+    "sigla": "SLV",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/40px-Flag_of_El_Salvador.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/60px-Flag_of_El_Salvador.svg.png 2x"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "dial_code": "+240",
+    "code": "GQ",
+    "sigla": "GNQ",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/40px-Flag_of_Equatorial_Guinea.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/60px-Flag_of_Equatorial_Guinea.svg.png 2x"
+  },
+  {
+    "name": "Eritrea",
+    "dial_code": "+291",
+    "code": "ER",
+    "sigla": "ERI",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/40px-Flag_of_Eritrea.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/60px-Flag_of_Eritrea.svg.png 2x"
+  },
+  {
+    "name": "Estonia",
+    "dial_code": "+372",
+    "code": "EE",
+    "sigla": "EST",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/40px-Flag_of_Estonia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/60px-Flag_of_Estonia.svg.png 2x"
+  },
+  {
+    "name": "Ethiopia",
+    "dial_code": "+251",
+    "code": "ET",
+    "sigla": "ETH",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/40px-Flag_of_Ethiopia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/60px-Flag_of_Ethiopia.svg.png 2x"
+  },
+  {
+    "name": "Falkland Islands (Malvinas)",
+    "dial_code": "+500",
+    "code": "FK",
+    "sigla": "FLK",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_Falkland_Islands.svg/40px-Flag_of_the_Falkland_Islands.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_Falkland_Islands.svg/60px-Flag_of_the_Falkland_Islands.svg.png 2x"
+  },
+  {
+    "name": "Faroe Islands",
+    "dial_code": "+298",
+    "code": "FO",
+    "sigla": "FRO",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_the_Faroe_Islands.svg/40px-Flag_of_the_Faroe_Islands.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_the_Faroe_Islands.svg/60px-Flag_of_the_Faroe_Islands.svg.png 2x"
+  },
+  {
+    "name": "Fiji",
+    "dial_code": "+679",
+    "code": "FJ",
+    "sigla": "FJI",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/40px-Flag_of_Fiji.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/60px-Flag_of_Fiji.svg.png 2x"
+  },
+  {
+    "name": "Finland",
+    "dial_code": "+358",
+    "code": "FI",
+    "sigla": "FIN",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/40px-Flag_of_Finland.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/60px-Flag_of_Finland.svg.png 2x"
+  },
+  {
+    "name": "France",
+    "dial_code": "+33",
+    "code": "FR",
+    "sigla": "FRA",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/40px-Flag_of_France.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/60px-Flag_of_France.svg.png 2x"
+  },
+  {
+    "name": "French Guiana",
+    "dial_code": "+594",
+    "code": "GF",
+    "sigla": "GUF",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/40px-Flag_of_France.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/60px-Flag_of_France.svg.png 2x"
+  },
+  {
+    "name": "French Polynesia",
+    "dial_code": "+689",
+    "code": "PF",
+    "sigla": "PYF",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/40px-Flag_of_French_Polynesia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/60px-Flag_of_French_Polynesia.svg.png 2x"
+  },
+  {
+    "name": "Gabon",
+    "dial_code": "+241",
+    "code": "GA",
+    "sigla": "GAB",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/20px-Flag_of_Gabon.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/40px-Flag_of_Gabon.svg.png 1.5x"
+  },
+  {
+    "name": "Gambia",
+    "dial_code": "+220",
+    "code": "GM",
+    "sigla": "GMB",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/40px-Flag_of_The_Gambia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/60px-Flag_of_The_Gambia.svg.png 2x"
+  },
+  {
+    "name": "Georgia",
+    "dial_code": "+995",
+    "code": "GE",
+    "sigla": "GEO",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/40px-Flag_of_Georgia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/60px-Flag_of_Georgia.svg.png 2x"
+  },
+  {
+    "name": "Germany",
+    "dial_code": "+49",
+    "code": "DE",
+    "sigla": "DEU",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png 2x"
+  },
+  {
+    "name": "Ghana",
+    "dial_code": "+233",
+    "code": "GH",
+    "sigla": "GHA",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/40px-Flag_of_Ghana.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/60px-Flag_of_Ghana.svg.png 2x"
+  },
+  {
+    "name": "Gibraltar",
+    "dial_code": "+350",
+    "code": "GI",
+    "sigla": "GIB",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/40px-Flag_of_Gibraltar.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/60px-Flag_of_Gibraltar.svg.png 2x"
+  },
+  {
+    "name": "Greece",
+    "dial_code": "+30",
+    "code": "GR",
+    "sigla": "GRC",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/40px-Flag_of_Greece.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/60px-Flag_of_Greece.svg.png 2x"
+  },
+  {
+    "name": "Greenland",
+    "dial_code": "+299",
+    "code": "GL",
+    "sigla": "GRL",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/40px-Flag_of_Greenland.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/60px-Flag_of_Greenland.svg.png 2x"
+  },
+  {
+    "name": "Grenada",
+    "dial_code": "+1473",
+    "code": "GD",
+    "sigla": "GRD",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/40px-Flag_of_Grenada.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/60px-Flag_of_Grenada.svg.png 2x"
+  },
+  {
+    "name": "Guadeloupe",
+    "dial_code": "+590",
+    "code": "GP",
+    "sigla": "GLP",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/40px-Flag_of_France.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/60px-Flag_of_France.svg.png 2x"
+  },
+  {
+    "name": "Guam",
+    "dial_code": "+1671",
+    "code": "GU",
+    "sigla": "GUM",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Guam.svg/40px-Flag_of_Guam.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Guam.svg/60px-Flag_of_Guam.svg.png 2x"
+  },
+  {
+    "name": "Guatemala",
+    "dial_code": "+502",
+    "code": "GT",
+    "sigla": "GTM",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/40px-Flag_of_Guatemala.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/60px-Flag_of_Guatemala.svg.png 2x"
+  },
+  {
+    "name": "Guernsey",
+    "dial_code": "+44",
+    "code": "GG",
+    "sigla": "GGY",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/40px-Flag_of_Guernsey.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/60px-Flag_of_Guernsey.svg.png 2x"
+  },
+  {
+    "name": "Guinea",
+    "dial_code": "+224",
+    "code": "GN",
+    "sigla": "GIN",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/40px-Flag_of_Guinea.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/60px-Flag_of_Guinea.svg.png 2x"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "dial_code": "+245",
+    "code": "GW",
+    "sigla": "GNB",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/40px-Flag_of_Guinea-Bissau.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/60px-Flag_of_Guinea-Bissau.svg.png 2x"
+  },
+  {
+    "name": "Guyana",
+    "dial_code": "+595",
+    "code": "GY",
+    "sigla": "GUY",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/40px-Flag_of_Guyana.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/60px-Flag_of_Guyana.svg.png 2x"
+  },
+  {
+    "name": "Haiti",
+    "dial_code": "+509",
+    "code": "HT",
+    "sigla": "HTI",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/40px-Flag_of_Haiti.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/60px-Flag_of_Haiti.svg.png 2x"
+  },
+  {
+    "name": "Holy See (Vatican City State)",
+    "dial_code": "+379",
+    "code": "VA",
+    "sigla": "VAT",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg/20px-Flag_of_Vatican_City_%282023%E2%80%93present%29.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg/40px-Flag_of_Vatican_City_%282023%E2%80%93present%29.svg.png 1.5x"
+  },
+  {
+    "name": "Honduras",
+    "dial_code": "+504",
+    "code": "HN",
+    "sigla": "HND",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Honduras_%282022%E2%80%93present%29.svg/40px-Flag_of_Honduras_%282022%E2%80%93present%29.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Honduras_%282022%E2%80%93present%29.svg/60px-Flag_of_Honduras_%282022%E2%80%93present%29.svg.png 2x"
+  },
+  {
+    "name": "Hong Kong",
+    "dial_code": "+852",
+    "code": "HK",
+    "sigla": "HKG",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/40px-Flag_of_Hong_Kong.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/60px-Flag_of_Hong_Kong.svg.png 2x"
+  },
+  {
+    "name": "Hungary",
+    "dial_code": "+36",
+    "code": "HU",
+    "sigla": "HUN",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/40px-Flag_of_Hungary.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/60px-Flag_of_Hungary.svg.png 2x"
+  },
+  {
+    "name": "Iceland",
+    "dial_code": "+354",
+    "code": "IS",
+    "sigla": "ISL",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/40px-Flag_of_Iceland.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/60px-Flag_of_Iceland.svg.png 2x"
+  },
+  {
+    "name": "India",
+    "dial_code": "+91",
+    "code": "IN",
+    "sigla": "IND",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/40px-Flag_of_India.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/60px-Flag_of_India.svg.png 2x"
+  },
+  {
+    "name": "Indonesia",
+    "dial_code": "+62",
+    "code": "ID",
+    "sigla": "IDN",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/40px-Flag_of_Indonesia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/60px-Flag_of_Indonesia.svg.png 2x"
+  },
+  {
+    "name": "Iran, Islamic Republic of Persian Gulf",
+    "dial_code": "+98",
+    "code": "IR",
+    "sigla": "IRN",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/40px-Flag_of_Iran.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/60px-Flag_of_Iran.svg.png 2x"
+  },
+  {
+    "name": "Iraq",
+    "dial_code": "+964",
+    "code": "IQ",
+    "sigla": "IRQ",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/40px-Flag_of_Iraq.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/60px-Flag_of_Iraq.svg.png 2x"
+  },
+  {
+    "name": "Ireland",
+    "dial_code": "+353",
+    "code": "IE",
+    "sigla": "IRL",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/40px-Flag_of_Ireland.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/60px-Flag_of_Ireland.svg.png 2x"
+  },
+  {
+    "name": "Isle of Man",
+    "dial_code": "+44",
+    "code": "IM",
+    "sigla": "IMN",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Isle_of_Man.svg/40px-Flag_of_the_Isle_of_Man.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Isle_of_Man.svg/60px-Flag_of_the_Isle_of_Man.svg.png 2x"
+  },
+  {
+    "name": "Israel",
+    "dial_code": "+972",
+    "code": "IL",
+    "sigla": "ISR",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/40px-Flag_of_Israel.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/60px-Flag_of_Israel.svg.png 2x"
+  },
+  {
+    "name": "Italy",
+    "dial_code": "+39",
+    "code": "IT",
+    "sigla": "ITA",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/40px-Flag_of_Italy.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/60px-Flag_of_Italy.svg.png 2x"
+  },
+  {
+    "name": "Jamaica",
+    "dial_code": "+1876",
+    "code": "JM",
+    "sigla": "JAM",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/40px-Flag_of_Jamaica.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/60px-Flag_of_Jamaica.svg.png 2x"
+  },
+  {
+    "name": "Japan",
+    "dial_code": "+81",
+    "code": "JP",
+    "sigla": "JPN",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/40px-Flag_of_Japan.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/60px-Flag_of_Japan.svg.png 2x"
+  },
+  {
+    "name": "Jersey",
+    "dial_code": "+44",
+    "code": "JE",
+    "sigla": "JEY",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/40px-Flag_of_Jersey.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/60px-Flag_of_Jersey.svg.png 2x"
+  },
+  {
+    "name": "Jordan",
+    "dial_code": "+962",
+    "code": "JO",
+    "sigla": "JOR",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/40px-Flag_of_Jordan.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/60px-Flag_of_Jordan.svg.png 2x"
+  },
+  {
+    "name": "Kazakhstan",
+    "dial_code": "+77",
+    "code": "KZ",
+    "sigla": "KAZ",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/40px-Flag_of_Kazakhstan.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/60px-Flag_of_Kazakhstan.svg.png 2x"
+  },
+  {
+    "name": "Kenya",
+    "dial_code": "+254",
+    "code": "KE",
+    "sigla": "KEN",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/40px-Flag_of_Kenya.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/60px-Flag_of_Kenya.svg.png 2x"
+  },
+  {
+    "name": "Kiribati",
+    "dial_code": "+686",
+    "code": "KI",
+    "sigla": "KIR",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/40px-Flag_of_Kiribati.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/60px-Flag_of_Kiribati.svg.png 2x"
+  },
+  {
+    "name": "Korea, Democratic People9s Republic of Korea",
+    "dial_code": "+850",
+    "code": "KP",
+    "sigla": "PRK",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/40px-Flag_of_North_Korea.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/60px-Flag_of_North_Korea.svg.png 2x"
+  },
+  {
+    "name": "Korea, Republic of South Korea",
+    "dial_code": "+82",
+    "code": "KR",
+    "sigla": "KOR",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/40px-Flag_of_South_Korea.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/60px-Flag_of_South_Korea.svg.png 2x"
+  },
+  {
+    "name": "Kuwait",
+    "dial_code": "+965",
+    "code": "KW",
+    "sigla": "KWT",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/40px-Flag_of_Kuwait.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/60px-Flag_of_Kuwait.svg.png 2x"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "dial_code": "+996",
+    "code": "KG",
+    "sigla": "KGZ",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/40px-Flag_of_Kyrgyzstan.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/60px-Flag_of_Kyrgyzstan.svg.png 2x"
+  },
+  {
+    "name": "Laos",
+    "dial_code": "+856",
+    "code": "LA",
+    "sigla": "LAO",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/40px-Flag_of_Laos.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/60px-Flag_of_Laos.svg.png 2x"
+  },
+  {
+    "name": "Latvia",
+    "dial_code": "+371",
+    "code": "LV",
+    "sigla": "LVA",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/40px-Flag_of_Latvia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/60px-Flag_of_Latvia.svg.png 2x"
+  },
+  {
+    "name": "Lebanon",
+    "dial_code": "+961",
+    "code": "LB",
+    "sigla": "LBN",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/40px-Flag_of_Lebanon.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/60px-Flag_of_Lebanon.svg.png 2x"
+  },
+  {
+    "name": "Lesotho",
+    "dial_code": "+266",
+    "code": "LS",
+    "sigla": "LSO",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/40px-Flag_of_Lesotho.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/60px-Flag_of_Lesotho.svg.png 2x"
+  },
+  {
+    "name": "Liberia",
+    "dial_code": "+231",
+    "code": "LR",
+    "sigla": "LBR",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/40px-Flag_of_Liberia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/60px-Flag_of_Liberia.svg.png 2x"
+  },
+  {
+    "name": "Libyan Arab Jamahiriya",
+    "dial_code": "+218",
+    "code": "LY",
+    "sigla": "LBY",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/40px-Flag_of_Libya.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/60px-Flag_of_Libya.svg.png 2x"
+  },
+  {
+    "name": "Liechtenstein",
+    "dial_code": "+423",
+    "code": "LI",
+    "sigla": "LIE",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/40px-Flag_of_Liechtenstein.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/60px-Flag_of_Liechtenstein.svg.png 2x"
+  },
+  {
+    "name": "Lithuania",
+    "dial_code": "+370",
+    "code": "LT",
+    "sigla": "LTU",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/40px-Flag_of_Lithuania.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/60px-Flag_of_Lithuania.svg.png 2x"
+  },
+  {
+    "name": "Luxembourg",
+    "dial_code": "+352",
+    "code": "LU",
+    "sigla": "LUX",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/40px-Flag_of_Luxembourg.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/60px-Flag_of_Luxembourg.svg.png 2x"
+  },
+  {
+    "name": "Macao",
+    "dial_code": "+853",
+    "code": "MO",
+    "sigla": "MAC",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/40px-Flag_of_Macau.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/60px-Flag_of_Macau.svg.png 2x"
+  },
+  {
+    "name": "Macedonia",
+    "dial_code": "+389",
+    "code": "MK",
+    "sigla": "MKD",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/40px-Flag_of_North_Macedonia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/60px-Flag_of_North_Macedonia.svg.png 2x"
+  },
+  {
+    "name": "Madagascar",
+    "dial_code": "+261",
+    "code": "MG",
+    "sigla": "MDG",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/40px-Flag_of_Madagascar.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/60px-Flag_of_Madagascar.svg.png 2x"
+  },
+  {
+    "name": "Malawi",
+    "dial_code": "+265",
+    "code": "MW",
+    "sigla": "MWI",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/40px-Flag_of_Malawi.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/60px-Flag_of_Malawi.svg.png 2x"
+  },
+  {
+    "name": "Malaysia",
+    "dial_code": "+60",
+    "code": "MY",
+    "sigla": "MYS",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/40px-Flag_of_Malaysia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/60px-Flag_of_Malaysia.svg.png 2x"
+  },
+  {
+    "name": "Maldives",
+    "dial_code": "+960",
+    "code": "MV",
+    "sigla": "MDV",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/40px-Flag_of_Maldives.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/60px-Flag_of_Maldives.svg.png 2x"
+  },
+  {
+    "name": "Mali",
+    "dial_code": "+223",
+    "code": "ML",
+    "sigla": "MLI",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/40px-Flag_of_Mali.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/60px-Flag_of_Mali.svg.png 2x"
+  },
+  {
+    "name": "Malta",
+    "dial_code": "+356",
+    "code": "MT",
+    "sigla": "MLT",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/40px-Flag_of_Malta.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/60px-Flag_of_Malta.svg.png 2x"
+  },
+  {
+    "name": "Marshall Islands",
+    "dial_code": "+692",
+    "code": "MH",
+    "sigla": "MHL",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/40px-Flag_of_the_Marshall_Islands.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/60px-Flag_of_the_Marshall_Islands.svg.png 2x"
+  },
+  {
+    "name": "Martinique",
+    "dial_code": "+596",
+    "code": "MQ",
+    "sigla": "MTQ",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag-of-Martinique.svg/40px-Flag-of-Martinique.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag-of-Martinique.svg/60px-Flag-of-Martinique.svg.png 2x"
+  },
+  {
+    "name": "Mauritania",
+    "dial_code": "+222",
+    "code": "MR",
+    "sigla": "MRT",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/40px-Flag_of_Mauritania.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/60px-Flag_of_Mauritania.svg.png 2x"
+  },
+  {
+    "name": "Mauritius",
+    "dial_code": "+230",
+    "code": "MU",
+    "sigla": "MUS",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/40px-Flag_of_Mauritius.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/60px-Flag_of_Mauritius.svg.png 2x"
+  },
+  {
+    "name": "Mayotte",
+    "dial_code": "+262",
+    "code": "YT",
+    "sigla": "MYT",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/40px-Flag_of_France.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/60px-Flag_of_France.svg.png 2x"
+  },
+  {
+    "name": "Mexico",
+    "dial_code": "+52",
+    "code": "MX",
+    "sigla": "MEX",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/40px-Flag_of_Mexico.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/60px-Flag_of_Mexico.svg.png 2x"
+  },
+  {
+    "name": "Micronesia, Federated States of Micronesia",
+    "dial_code": "+691",
+    "code": "FM",
+    "sigla": "FSM",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/40px-Flag_of_the_Federated_States_of_Micronesia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/60px-Flag_of_the_Federated_States_of_Micronesia.svg.png 2x"
+  },
+  {
+    "name": "Moldova",
+    "dial_code": "+373",
+    "code": "MD",
+    "sigla": "MDA",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/40px-Flag_of_Moldova.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/60px-Flag_of_Moldova.svg.png 2x"
+  },
+  {
+    "name": "Monaco",
+    "dial_code": "+377",
+    "code": "MC",
+    "sigla": "MCO",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/20px-Flag_of_Monaco.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/40px-Flag_of_Monaco.svg.png 1.5x"
+  },
+  {
+    "name": "Mongolia",
+    "dial_code": "+976",
+    "code": "MN",
+    "sigla": "MNG",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/40px-Flag_of_Mongolia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/60px-Flag_of_Mongolia.svg.png 2x"
+  },
+  {
+    "name": "Montenegro",
+    "dial_code": "+382",
+    "code": "ME",
+    "sigla": "MNE",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/40px-Flag_of_Montenegro.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/60px-Flag_of_Montenegro.svg.png 2x"
+  },
+  {
+    "name": "Montserrat",
+    "dial_code": "+1664",
+    "code": "MS",
+    "sigla": "MSR",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Montserrat.svg/40px-Flag_of_Montserrat.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Montserrat.svg/60px-Flag_of_Montserrat.svg.png 2x"
+  },
+  {
+    "name": "Morocco",
+    "dial_code": "+212",
+    "code": "MA",
+    "sigla": "MAR",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/40px-Flag_of_Morocco.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/60px-Flag_of_Morocco.svg.png 2x"
+  },
+  {
+    "name": "Mozambique",
+    "dial_code": "+258",
+    "code": "MZ",
+    "sigla": "MOZ",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/40px-Flag_of_Mozambique.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/60px-Flag_of_Mozambique.svg.png 2x"
+  },
+  {
+    "name": "Myanmar",
+    "dial_code": "+95",
+    "code": "MM",
+    "sigla": "MMR",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/40px-Flag_of_Myanmar.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/60px-Flag_of_Myanmar.svg.png 2x"
+  },
+  {
+    "name": "Namibia",
+    "dial_code": "+264",
+    "code": "NA",
+    "sigla": "NAM",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/40px-Flag_of_Namibia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/60px-Flag_of_Namibia.svg.png 2x"
+  },
+  {
+    "name": "Nauru",
+    "dial_code": "+674",
+    "code": "NR",
+    "sigla": "NRU",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/40px-Flag_of_Nauru.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/60px-Flag_of_Nauru.svg.png 2x"
+  },
+  {
+    "name": "Nepal",
+    "dial_code": "+977",
+    "code": "NP",
+    "sigla": "NPL",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/20px-Flag_of_Nepal.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/40px-Flag_of_Nepal.svg.png 1.5x"
+  },
+  {
+    "name": "Netherlands",
+    "dial_code": "+31",
+    "code": "NL",
+    "sigla": "NLD",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/40px-Flag_of_the_Netherlands.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/60px-Flag_of_the_Netherlands.svg.png 2x"
+  },
+  {
+    "name": "Netherlands Antilles",
+    "dial_code": "+599",
+    "code": "AN",
+    "sigla": "ANT",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_Netherlands_Antilles_%281986%E2%80%932010%29.svg/2560px-Flag_of_the_Netherlands_Antilles_%281986%E2%80%932010%29.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_Netherlands_Antilles_%281986%E2%80%932010%29.svg/2560px-Flag_of_the_Netherlands_Antilles_%281986%E2%80%932010%29.svg.png x2"
+  },
+  {
+    "name": "New Caledonia",
+    "dial_code": "+687",
+    "code": "NC",
+    "sigla": "NCL",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flags_of_New_Caledonia.svg/60px-Flags_of_New_Caledonia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flags_of_New_Caledonia.svg/120px-Flags_of_New_Caledonia.svg.png 1.5x"
+  },
+  {
+    "name": "New Zealand",
+    "dial_code": "+64",
+    "code": "NZ",
+    "sigla": "NZL",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/40px-Flag_of_New_Zealand.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/60px-Flag_of_New_Zealand.svg.png 2x"
+  },
+  {
+    "name": "Nicaragua",
+    "dial_code": "+505",
+    "code": "NI",
+    "sigla": "NIC",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/40px-Flag_of_Nicaragua.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/60px-Flag_of_Nicaragua.svg.png 2x"
+  },
+  {
+    "name": "Niger",
+    "dial_code": "+227",
+    "code": "NE",
+    "sigla": "NER",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/20px-Flag_of_Niger.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/40px-Flag_of_Niger.svg.png 1.5x"
+  },
+  {
+    "name": "Nigeria",
+    "dial_code": "+234",
+    "code": "NG",
+    "sigla": "NGA",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/40px-Flag_of_Nigeria.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/60px-Flag_of_Nigeria.svg.png 2x"
+  },
+  {
+    "name": "Niue",
+    "dial_code": "+683",
+    "code": "NU",
+    "sigla": "NIU",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/40px-Flag_of_Niue.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/60px-Flag_of_Niue.svg.png 2x"
+  },
+  {
+    "name": "Norfolk Island",
+    "dial_code": "+672",
+    "code": "NF",
+    "sigla": "NFK",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Norfolk_Island.svg/40px-Flag_of_Norfolk_Island.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Norfolk_Island.svg/60px-Flag_of_Norfolk_Island.svg.png 2x"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "dial_code": "+1670",
+    "code": "MP",
+    "sigla": "MNP",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_the_Northern_Mariana_Islands.svg/40px-Flag_of_the_Northern_Mariana_Islands.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_the_Northern_Mariana_Islands.svg/60px-Flag_of_the_Northern_Mariana_Islands.svg.png 2x"
+  },
+  {
+    "name": "Norway",
+    "dial_code": "+47",
+    "code": "NO",
+    "sigla": "NOR",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/40px-Flag_of_Norway.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/60px-Flag_of_Norway.svg.png 2x"
+  },
+  {
+    "name": "Oman",
+    "dial_code": "+968",
+    "code": "OM",
+    "sigla": "OMN",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/40px-Flag_of_Oman.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/60px-Flag_of_Oman.svg.png 2x"
+  },
+  {
+    "name": "Pakistan",
+    "dial_code": "+92",
+    "code": "PK",
+    "sigla": "PAK",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/40px-Flag_of_Pakistan.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/60px-Flag_of_Pakistan.svg.png 2x"
+  },
+  {
+    "name": "Palau",
+    "dial_code": "+680",
+    "code": "PW",
+    "sigla": "PLW",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/40px-Flag_of_Palau.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/60px-Flag_of_Palau.svg.png 2x"
+  },
+  {
+    "name": "Palestinian Territory, Occupied",
+    "dial_code": "+970",
+    "code": "PS",
+    "sigla": "PSE",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/40px-Flag_of_Palestine.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/60px-Flag_of_Palestine.svg.png 2x"
+  },
+  {
+    "name": "Panama",
+    "dial_code": "+507",
+    "code": "PA",
+    "sigla": "PAN",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/40px-Flag_of_Panama.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/60px-Flag_of_Panama.svg.png 2x"
+  },
+  {
+    "name": "Papua New Guinea",
+    "dial_code": "+675",
+    "code": "PG",
+    "sigla": "PNG",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/20px-Flag_of_Papua_New_Guinea.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/40px-Flag_of_Papua_New_Guinea.svg.png 1.5x"
+  },
+  {
+    "name": "Paraguay",
+    "dial_code": "+595",
+    "code": "PY",
+    "sigla": "PRY",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/40px-Flag_of_Paraguay.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/60px-Flag_of_Paraguay.svg.png 2x"
+  },
+  {
+    "name": "Peru",
+    "dial_code": "+51",
+    "code": "PE",
+    "sigla": "PER",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/40px-Flag_of_Peru.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/60px-Flag_of_Peru.svg.png 2x"
+  },
+  {
+    "name": "Philippines",
+    "dial_code": "+63",
+    "code": "PH",
+    "sigla": "PHL",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/40px-Flag_of_the_Philippines.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/60px-Flag_of_the_Philippines.svg.png 2x"
+  },
+  {
+    "name": "Pitcairn",
+    "dial_code": "+872",
+    "code": "PN",
+    "sigla": "PCN",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_the_Pitcairn_Islands.svg/40px-Flag_of_the_Pitcairn_Islands.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_the_Pitcairn_Islands.svg/60px-Flag_of_the_Pitcairn_Islands.svg.png 2x"
+  },
+  {
+    "name": "Poland",
+    "dial_code": "+48",
+    "code": "PL",
+    "sigla": "POL",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/40px-Flag_of_Poland.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/60px-Flag_of_Poland.svg.png 2x"
+  },
+  {
+    "name": "Portugal",
+    "dial_code": "+351",
+    "code": "PT",
+    "sigla": "PRT",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Portugal_%28official%29.svg/40px-Flag_of_Portugal_%28official%29.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Portugal_%28official%29.svg/60px-Flag_of_Portugal_%28official%29.svg.png 2x"
+  },
+  {
+    "name": "Puerto Rico",
+    "dial_code": "+1939",
+    "code": "PR",
+    "sigla": "PRI",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/40px-Flag_of_Puerto_Rico.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/60px-Flag_of_Puerto_Rico.svg.png 2x"
+  },
+  {
+    "name": "Qatar",
+    "dial_code": "+974",
+    "code": "QA",
+    "sigla": "QAT",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/40px-Flag_of_Qatar.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/60px-Flag_of_Qatar.svg.png 2x"
+  },
+  {
+    "name": "Romania",
+    "dial_code": "+40",
+    "code": "RO",
+    "sigla": "ROU",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/40px-Flag_of_Romania.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/60px-Flag_of_Romania.svg.png 2x"
+  },
+  {
+    "name": "Russia",
+    "dial_code": "+7",
+    "code": "RU",
+    "sigla": "RUS",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/40px-Flag_of_Russia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/60px-Flag_of_Russia.svg.png 2x"
+  },
+  {
+    "name": "Rwanda",
+    "dial_code": "+250",
+    "code": "RW",
+    "sigla": "RWA",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/40px-Flag_of_Rwanda.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/60px-Flag_of_Rwanda.svg.png 2x"
+  },
+  {
+    "name": "Reunion",
+    "dial_code": "+262",
+    "code": "RE",
+    "sigla": "REU",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/40px-Flag_of_France.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/60px-Flag_of_France.svg.png 2x"
+  },
+  {
+    "name": "Saint Barthelemy",
+    "dial_code": "+590",
+    "code": "BL",
+    "sigla": "BLM",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/40px-Flag_of_France.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/60px-Flag_of_France.svg.png 2x"
+  },
+  {
+    "name": "Saint Helena, Ascension and Tristan Da Cunha",
+    "dial_code": "+290",
+    "code": "SH",
+    "sigla": "SHN",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Saint_Helena.svg/40px-Flag_of_Saint_Helena.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Saint_Helena.svg/60px-Flag_of_Saint_Helena.svg.png 2x"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "dial_code": "+1869",
+    "code": "KN",
+    "sigla": "KNA",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/40px-Flag_of_Saint_Kitts_and_Nevis.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/60px-Flag_of_Saint_Kitts_and_Nevis.svg.png 2x"
+  },
+  {
+    "name": "Saint Lucia",
+    "dial_code": "+1758",
+    "code": "LC",
+    "sigla": "LCA",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/40px-Flag_of_Saint_Lucia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/60px-Flag_of_Saint_Lucia.svg.png 2x"
+  },
+  {
+    "name": "Saint Martin",
+    "dial_code": "+590",
+    "code": "MF",
+    "sigla": "MAF",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/40px-Flag_of_France.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/60px-Flag_of_France.svg.png 2x"
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "dial_code": "+508",
+    "code": "PM",
+    "sigla": "SPM",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/40px-Flag_of_France.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/60px-Flag_of_France.svg.png 2x"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "dial_code": "+1784",
+    "code": "VC",
+    "sigla": "VCT",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/40px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/60px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png 2x"
+  },
+  {
+    "name": "Samoa",
+    "dial_code": "+685",
+    "code": "WS",
+    "sigla": "WSM",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/40px-Flag_of_Samoa.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/60px-Flag_of_Samoa.svg.png 2x"
+  },
+  {
+    "name": "San Marino",
+    "dial_code": "+378",
+    "code": "SM",
+    "sigla": "SMR",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/20px-Flag_of_San_Marino.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/40px-Flag_of_San_Marino.svg.png 1.5x"
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "dial_code": "+239",
+    "code": "ST",
+    "sigla": "STP",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg/40px-Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg/60px-Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg.png 2x"
+  },
+  {
+    "name": "Saudi Arabia",
+    "dial_code": "+966",
+    "code": "SA",
+    "sigla": "SAU",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/40px-Flag_of_Saudi_Arabia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/60px-Flag_of_Saudi_Arabia.svg.png 2x"
+  },
+  {
+    "name": "Senegal",
+    "dial_code": "+221",
+    "code": "SN",
+    "sigla": "SEN",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/40px-Flag_of_Senegal.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/60px-Flag_of_Senegal.svg.png 2x"
+  },
+  {
+    "name": "Serbia",
+    "dial_code": "+381",
+    "code": "RS",
+    "sigla": "SRB",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/40px-Flag_of_Serbia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/60px-Flag_of_Serbia.svg.png 2x"
+  },
+  {
+    "name": "Seychelles",
+    "dial_code": "+248",
+    "code": "SC",
+    "sigla": "SYC",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/40px-Flag_of_Seychelles.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/60px-Flag_of_Seychelles.svg.png 2x"
+  },
+  {
+    "name": "Sierra Leone",
+    "dial_code": "+232",
+    "code": "SL",
+    "sigla": "SLE",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/40px-Flag_of_Sierra_Leone.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/60px-Flag_of_Sierra_Leone.svg.png 2x"
+  },
+  {
+    "name": "Singapore",
+    "dial_code": "+65",
+    "code": "SG",
+    "sigla": "SGP",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/40px-Flag_of_Singapore.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/60px-Flag_of_Singapore.svg.png 2x"
+  },
+  {
+    "name": "Slovakia",
+    "dial_code": "+421",
+    "code": "SK",
+    "sigla": "SVK",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/40px-Flag_of_Slovakia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/60px-Flag_of_Slovakia.svg.png 2x"
+  },
+  {
+    "name": "Slovenia",
+    "dial_code": "+386",
+    "code": "SI",
+    "sigla": "SVN",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/40px-Flag_of_Slovenia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/60px-Flag_of_Slovenia.svg.png 2x"
+  },
+  {
+    "name": "Solomon Islands",
+    "dial_code": "+677",
+    "code": "SB",
+    "sigla": "SLB",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/40px-Flag_of_the_Solomon_Islands.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/60px-Flag_of_the_Solomon_Islands.svg.png 2x"
+  },
+  {
+    "name": "Somalia",
+    "dial_code": "+252",
+    "code": "SO",
+    "sigla": "SOM",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/40px-Flag_of_Somalia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/60px-Flag_of_Somalia.svg.png 2x"
+  },
+  {
+    "name": "South Africa",
+    "dial_code": "+27",
+    "code": "ZA",
+    "sigla": "ZAF",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/40px-Flag_of_South_Africa.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/60px-Flag_of_South_Africa.svg.png 2x"
+  },
+  {
+    "name": "South Sudan",
+    "dial_code": "+211",
+    "code": "SS",
+    "sigla": "SSD",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/40px-Flag_of_South_Sudan.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/60px-Flag_of_South_Sudan.svg.png 2x"
+  },
+  {
+    "name": "South Georgia and the South Sandwich Islands",
+    "dial_code": "+500",
+    "code": "GS",
+    "sigla": "SGS",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg/40px-Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg/60px-Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg.png 2x"
+  },
+  {
+    "name": "Spain",
+    "dial_code": "+34",
+    "code": "ES",
+    "sigla": "ESP",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/40px-Flag_of_Spain.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/60px-Flag_of_Spain.svg.png 2x"
+  },
+  {
+    "name": "Sri Lanka",
+    "dial_code": "+94",
+    "code": "LK",
+    "sigla": "LKA",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/40px-Flag_of_Sri_Lanka.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/60px-Flag_of_Sri_Lanka.svg.png 2x"
+  },
+  {
+    "name": "Sudan",
+    "dial_code": "+249",
+    "code": "SD",
+    "sigla": "SDN",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/40px-Flag_of_Sudan.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/60px-Flag_of_Sudan.svg.png 2x"
+  },
+  {
+    "name": "Suriname",
+    "dial_code": "+597",
+    "code": "SR",
+    "sigla": "SUR",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/40px-Flag_of_Suriname.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/60px-Flag_of_Suriname.svg.png 2x"
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "dial_code": "+47",
+    "code": "SJ",
+    "sigla": "SJM",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/40px-Flag_of_Norway.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/60px-Flag_of_Norway.svg.png 2x"
+  },
+  {
+    "name": "Swaziland",
+    "dial_code": "+268",
+    "code": "SZ",
+    "sigla": "SWZ",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/40px-Flag_of_Eswatini.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/60px-Flag_of_Eswatini.svg.png 2x"
+  },
+  {
+    "name": "Sweden",
+    "dial_code": "+46",
+    "code": "SE",
+    "sigla": "SWE",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/40px-Flag_of_Sweden.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/60px-Flag_of_Sweden.svg.png 2x"
+  },
+  {
+    "name": "Switzerland",
+    "dial_code": "+41",
+    "code": "CH",
+    "sigla": "CHE",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/20px-Flag_of_Switzerland_%28Pantone%29.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/40px-Flag_of_Switzerland_%28Pantone%29.svg.png 1.5x"
+  },
+  {
+    "name": "Syrian Arab Republic",
+    "dial_code": "+963",
+    "code": "SY",
+    "sigla": "SYR",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Syria_%282025-%29.svg/40px-Flag_of_Syria_%282025-%29.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Syria_%282025-%29.svg/60px-Flag_of_Syria_%282025-%29.svg.png 2x"
+  },
+  {
+    "name": "Taiwan",
+    "dial_code": "+886",
+    "code": "TW",
+    "sigla": "TWN",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/20px-Flag_of_the_Republic_of_China.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/20px-Flag_of_the_Republic_of_China.svg.png x2"
+  },
+  {
+    "name": "Tajikistan",
+    "dial_code": "+992",
+    "code": "TJ",
+    "sigla": "TJK",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/40px-Flag_of_Tajikistan.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/60px-Flag_of_Tajikistan.svg.png 2x"
+  },
+  {
+    "name": "Tanzania, United Republic of Tanzania",
+    "dial_code": "+255",
+    "code": "TZ",
+    "sigla": "TZA",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/40px-Flag_of_Tanzania.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/60px-Flag_of_Tanzania.svg.png 2x"
+  },
+  {
+    "name": "Thailand",
+    "dial_code": "+66",
+    "code": "TH",
+    "sigla": "THA",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/40px-Flag_of_Thailand.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/60px-Flag_of_Thailand.svg.png 2x"
+  },
+  {
+    "name": "Timor-Leste",
+    "dial_code": "+670",
+    "code": "TL",
+    "sigla": "TLS",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/40px-Flag_of_East_Timor.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/60px-Flag_of_East_Timor.svg.png 2x"
+  },
+  {
+    "name": "Togo",
+    "dial_code": "+228",
+    "code": "TG",
+    "sigla": "TGO",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_Togo_%283-2%29.svg/40px-Flag_of_Togo_%283-2%29.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_Togo_%283-2%29.svg/60px-Flag_of_Togo_%283-2%29.svg.png 2x"
+  },
+  {
+    "name": "Tokelau",
+    "dial_code": "+690",
+    "code": "TK",
+    "sigla": "TKL",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flag_of_Tokelau.svg/40px-Flag_of_Tokelau.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flag_of_Tokelau.svg/60px-Flag_of_Tokelau.svg.png 2x"
+  },
+  {
+    "name": "Tonga",
+    "dial_code": "+676",
+    "code": "TO",
+    "sigla": "TON",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/40px-Flag_of_Tonga.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/60px-Flag_of_Tonga.svg.png 2x"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "dial_code": "+1868",
+    "code": "TT",
+    "sigla": "TTO",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/40px-Flag_of_Trinidad_and_Tobago.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/60px-Flag_of_Trinidad_and_Tobago.svg.png 2x"
+  },
+  {
+    "name": "Tunisia",
+    "dial_code": "+216",
+    "code": "TN",
+    "sigla": "TUN",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/40px-Flag_of_Tunisia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/60px-Flag_of_Tunisia.svg.png 2x"
+  },
+  {
+    "name": "Turkey",
+    "dial_code": "+90",
+    "code": "TR",
+    "sigla": "TUR",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/40px-Flag_of_Turkey.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/60px-Flag_of_Turkey.svg.png 2x"
+  },
+  {
+    "name": "Turkmenistan",
+    "dial_code": "+993",
+    "code": "TM",
+    "sigla": "TKM",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/40px-Flag_of_Turkmenistan.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/60px-Flag_of_Turkmenistan.svg.png 2x"
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "dial_code": "+1649",
+    "code": "TC",
+    "sigla": "TCA",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg/40px-Flag_of_the_Turks_and_Caicos_Islands.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg/60px-Flag_of_the_Turks_and_Caicos_Islands.svg.png 2x"
+  },
+  {
+    "name": "Tuvalu",
+    "dial_code": "+688",
+    "code": "TV",
+    "sigla": "TUV",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/40px-Flag_of_Tuvalu.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/60px-Flag_of_Tuvalu.svg.png 2x"
+  },
+  {
+    "name": "Uganda",
+    "dial_code": "+256",
+    "code": "UG",
+    "sigla": "UGA",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/40px-Flag_of_Uganda.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/60px-Flag_of_Uganda.svg.png 2x"
+  },
+  {
+    "name": "Ukraine",
+    "dial_code": "+380",
+    "code": "UA",
+    "sigla": "UKR",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/40px-Flag_of_Ukraine.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/60px-Flag_of_Ukraine.svg.png 2x"
+  },
+  {
+    "name": "United Arab Emirates",
+    "dial_code": "+971",
+    "code": "AE",
+    "sigla": "ARE",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/40px-Flag_of_the_United_Arab_Emirates.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/60px-Flag_of_the_United_Arab_Emirates.svg.png 2x"
+  },
+  {
+    "name": "United Kingdom",
+    "dial_code": "+44",
+    "code": "GB",
+    "sigla": "GBR",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/40px-Flag_of_the_United_Kingdom.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/60px-Flag_of_the_United_Kingdom.svg.png 2x"
+  },
+
+  {
+    "name": "Uruguay",
+    "dial_code": "+598",
+    "code": "UY",
+    "sigla": "URY",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/40px-Flag_of_Uruguay.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/60px-Flag_of_Uruguay.svg.png 2x"
+  },
+  {
+    "name": "Uzbekistan",
+    "dial_code": "+998",
+    "code": "UZ",
+    "sigla": "UZB",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/40px-Flag_of_Uzbekistan.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/60px-Flag_of_Uzbekistan.svg.png 2x"
+  },
+  {
+    "name": "Vanuatu",
+    "dial_code": "+678",
+    "code": "VU",
+    "sigla": "VUT",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/40px-Flag_of_Vanuatu.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/60px-Flag_of_Vanuatu.svg.png 2x"
+  },
+  {
+    "name": "Venezuela, Bolivarian Republic of Venezuela",
+    "dial_code": "+58",
+    "code": "VE",
+    "sigla": "VEN",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/40px-Flag_of_Venezuela.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/60px-Flag_of_Venezuela.svg.png 2x"
+  },
+  {
+    "name": "Vietnam",
+    "dial_code": "+84",
+    "code": "VN",
+    "sigla": "VNM",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/40px-Flag_of_Vietnam.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/60px-Flag_of_Vietnam.svg.png 2x"
+  },
+  {
+    "name": "Virgin Islands, British",
+    "dial_code": "+1284",
+    "code": "VG",
+    "sigla": "VGB",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_British_Virgin_Islands.svg/40px-Flag_of_the_British_Virgin_Islands.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_British_Virgin_Islands.svg/60px-Flag_of_the_British_Virgin_Islands.svg.png 2x"
+  },
+  {
+    "name": "Virgin Islands, U.S.",
+    "dial_code": "+1340",
+    "code": "VI",
+    "sigla": "VIR",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Virgin_Islands.svg/40px-Flag_of_the_United_States_Virgin_Islands.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Virgin_Islands.svg/60px-Flag_of_the_United_States_Virgin_Islands.svg.png 2x"
+  },
+  {
+    "name": "Wallis and Futuna",
+    "dial_code": "+681",
+    "code": "WF",
+    "sigla": "WLF",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/40px-Flag_of_France.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/60px-Flag_of_France.svg.png 2x"
+  },
+  {
+    "name": "Yemen",
+    "dial_code": "+967",
+    "code": "YE",
+    "sigla": "YEM",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/40px-Flag_of_Yemen.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/60px-Flag_of_Yemen.svg.png 2x"
+  },
+  {
+    "name": "Zambia",
+    "dial_code": "+260",
+    "code": "ZM",
+    "sigla": "ZMB",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/40px-Flag_of_Zambia.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/60px-Flag_of_Zambia.svg.png 2x"
+  },
+  {
+    "name": "Zimbabwe",
+    "dial_code": "+263",
+    "code": "ZW",
+    "sigla": "ZWE",
+    "flagSrc": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/40px-Flag_of_Zimbabwe.svg.png",
+    "flagSrcset": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/60px-Flag_of_Zimbabwe.svg.png 2x"
+  }
+]

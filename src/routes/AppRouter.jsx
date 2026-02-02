@@ -1,10 +1,10 @@
-import React from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Home from "../pages/Home";
-import Appartamento from "../pages/Appartamento";
-import ChiSiamo from "../pages/ChiSiamo";
-import Giannutri from "../pages/Giannutri";
-import Privacy from "../pages/Privacy";
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Home from '../pages/home/Home';
+import Appartamento from '../pages/appartament/Appartamento';
+import ChiSiamo from '../pages/who-are/ChiSiamo';
+import Giannutri from '../pages/giannutri/Giannutri';
+import Privacy from '../pages/privacy/Privacy';
 
 const AppRouter = () => (
   <Router>

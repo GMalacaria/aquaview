@@ -1,0 +1,13 @@
+@use '../../app.scss' as *;
+
+fieldset,
+textarea {
+  border-radius: 10px !important;
+}
+
+#form {
+  background-color: $bg-cards;
+  @media (max-width: 900px) {
+    background-color: white;
+  }
+}
