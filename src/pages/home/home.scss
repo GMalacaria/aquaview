@@ -79,6 +79,10 @@
 .home-cards-section {
   background-color: $bg-cards;
   padding: 64px 8px;
+  box-shadow:
+    0px 3px 3px -2px rgba(0, 0, 0, 0.2),
+    0px 3px 4px 0px rgba(0, 0, 0, 0.14),
+    0px 1px 8px 0px rgba(0, 0, 0, 0.12);
 
   @media (max-width: 900px) {
     padding: 64px 16px;
@@ -92,7 +96,6 @@
   .home-card {
     max-width: 355px;
     margin: auto;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
     animation: none;
     &.in-view {
       animation: slideIn 1s ease;

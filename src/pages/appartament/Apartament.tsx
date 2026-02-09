@@ -3,7 +3,7 @@ import { useParams } from 'react-router-dom';
 import { Grid, Typography, Box, Button, Paper, Popover, Divider, Stack } from '@mui/material';
 import ImageGallery from 'react-image-gallery';
 import 'react-image-gallery/styles/image-gallery.css';
-import './apartment.css';
+import './apartment.scss';
 import BookingDateRange from '../../components/BookingDateRange';
 import { useTranslation } from 'react-i18next';
 import { addDays, differenceInCalendarDays } from 'date-fns';
@@ -103,7 +103,7 @@ type BookingProps = {
   errorText?: string;
 };
 
-const Appartamento = () => {
+const Apartament = () => {
   const { id } = useParams();
   appartamentoData.id = +(id || '0');
   const { t, i18n } = useTranslation();
@@ -159,9 +159,7 @@ const Appartamento = () => {
       }
       price = pricePerDay;
       pricePerPeriod += pricePerDay;
-      console.log(
-        `Adding price for ${currentDate.toDateString()}: ${pricePerDay}€ (total: ${pricePerPeriod}€)`
-      );
+
       currentDate.setDate(currentDate.getDate() + 1);
     }
     const totalNights = differenceInCalendarDays(booking.endDate, booking.startDate);
@@ -439,7 +437,9 @@ const Appartamento = () => {
             <Grid sx={{ display: 'flex', justifyContent: 'left' }} size={6}>
               {appartamentoData.id > 30 && (
                 <Button
-                  onClick={() => (window.location.href = '/appartament/29')}
+                  onClick={() =>
+                    (window.location.href = `/appartamento/${appartamentoData.id === 60 ? 30 : 60}`)
+                  }
                   sx={{ minWidth: 80 }}
                   variant="contained"
                   color="primary"
@@ -453,7 +453,9 @@ const Appartamento = () => {
             <Grid sx={{ display: 'flex', justifyContent: 'right' }} size={6}>
               {appartamentoData.id < 90 && (
                 <Button
-                  onClick={() => (window.location.href = '/appartament/31')}
+                  onClick={() =>
+                    (window.location.href = `/appartamento/${appartamentoData.id === 60 ? 90 : 60}`)
+                  }
                   sx={{ minWidth: 80 }}
                   variant="contained"
                   color="primary"
@@ -473,4 +475,4 @@ const Appartamento = () => {
   );
 };
 
-export default Appartamento;
+export default Apartament;

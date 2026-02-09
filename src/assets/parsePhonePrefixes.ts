@@ -32,5 +32,3 @@ fs.writeFileSync(
   'src/data/phonePrefixes.ts',
   `export const PHONE_PREFIXES = ${JSON.stringify(result, null, 2)};`
 );
-
-console.log('✅ File phonePrefixes.ts generato');
