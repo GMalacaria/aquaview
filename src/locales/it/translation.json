@@ -79,5 +79,6 @@
   "read_giannutri_details": "Leggi i dettagli su Giannutri",
   "please_check_fields": "Controlla tutti i campi obbligatori",
   "cancel": "Annulla",
-  "booking_confirmation_note": "Nota: La prenotazione sarà confermata solo dopo la nostra approvazione. Ti contatteremo entro 24-48 ore per confermare la disponibilità e fornirti ulteriori dettagli."
+  "booking_confirmation_note": "Nota: La prenotazione sarà confermata solo dopo la nostra approvazione. Ti contatteremo entro 24-48 ore per confermare la disponibilità e fornirti ulteriori dettagli.",
+  "captcha_required": "Controllo anti-bot fallito"
 }

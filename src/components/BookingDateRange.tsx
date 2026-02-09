@@ -209,7 +209,7 @@ export default function BookingDateRange({
             type="text"
             sx={{ width: '100%' }}
             placeholder="gg/mm/aaaa"
-            inputProps={{ inputMode: 'numeric', pattern: '[0-9/]*', maxLength: 10 }}
+            inputProps={{ inputMode: 'numeric', maxLength: 10 }}
             InputLabelProps={{ shrink: true }}
           />
         </Grid>
@@ -223,7 +223,7 @@ export default function BookingDateRange({
             type="text"
             sx={{ width: '100%' }}
             placeholder="gg/mm/aaaa"
-            inputProps={{ inputMode: 'numeric', pattern: '[0-9/]*', maxLength: 10 }}
+            inputProps={{ inputMode: 'numeric', maxLength: 10 }}
             InputLabelProps={{ shrink: true }}
           />
         </Grid>

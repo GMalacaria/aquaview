@@ -18,6 +18,8 @@ import {
 import { useTranslation } from 'react-i18next';
 import { useForm, Controller } from 'react-hook-form';
 import PrefixPhoneInput from '../../../components/inputs/PrefixPhoneInput';
+import { Turnstile } from '@marsidev/react-turnstile';
+const siteKey = import.meta.env.VITE_SITE_KEY_TURNSTILE;
 
 const phoneRegex = /^([+]?\d{1,3})?\s?\d{6,14}$/;
 const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
@@ -41,15 +43,20 @@ export default function BookingConfirmModal({ open, onClose, onConfirm, booking,
     },
   });
   const [submitError, setSubmitError] = useState('');
+  const [turnstileToken, setTurnstileToken] = useState('');
 
   const onSubmit = (data) => {
     setSubmitError('');
+    if (!turnstileToken) {
+      setSubmitError(t('captcha_required'));
+      return;
+    }
     if (!data.detailsChecked) {
       setError('detailsChecked', { type: 'manual', message: t('must_accept_giannutri_details') });
       setSubmitError(t('please_check_fields'));
       return;
     }
-    onConfirm({ ...data });
+    onConfirm({ ...data, turnstileToken });
   };
 
   return (
@@ -170,6 +177,19 @@ export default function BookingConfirmModal({ open, onClose, onConfirm, booking,
                 </>
               )}
             />
+            <Box sx={{ my: 2, display: 'none' }}>
+              <Turnstile
+                siteKey={siteKey}
+                onSuccess={setTurnstileToken}
+                onExpire={() => setTurnstileToken('')}
+                options={{ theme: 'light' }}
+              />
+              {submitError && submitError === t('captcha_required') && (
+                <Typography variant="caption" color="error">
+                  {submitError}
+                </Typography>
+              )}
+            </Box>
             {submitError && <Alert severity="error">{submitError}</Alert>}
           </Stack>
         </Box>
