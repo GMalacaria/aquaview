@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
-import { Grid, Typography, Box } from '@mui/material';
+import { Grid, Typography, Box, Snackbar, Alert } from '@mui/material';
 import 'react-image-gallery/styles/image-gallery.css';
 import './apartment.scss';
 import { useTranslation } from 'react-i18next';
@@ -21,9 +21,11 @@ const Apartament = () => {
   const { t, i18n } = useTranslation();
   const currentLang = i18n.language || 'it';
   const [booking, setBooking] = useState<BookingProps>({
-    startDate: new Date(),
-    endDate: addDays(new Date(), 7),
+    startDate: addDays(new Date(), 1),
+    endDate: addDays(new Date(), 8),
   });
+
+  const [snackbarOpen, setSnackbarOpen] = useState(false);
 
   const [priceDetail, setpriceDetail] = useState<PriceDetail>({
     inTheSamePrice: true,
@@ -63,10 +65,34 @@ const Apartament = () => {
     setAnchorEl(null);
   };
 
+  const sendEmail = (allInfo) => {
+    setSnackbarOpen(true);
+    console.log({
+      id: appartamentoData.id,
+      ...allInfo,
+      ...booking,
+      priceDetail,
+      endDate: booking.endDate.toISOString(),
+      startDate: booking.startDate.toISOString(),
+    });
+  };
+
   const open = Boolean(anchorEl);
 
   return (
     <Box sx={{ maxWidth: 1280, mx: 'auto', p: 2 }}>
+      <Snackbar
+        autoHideDuration={6000}
+        open={snackbarOpen}
+        onClose={() => setSnackbarOpen(false)}
+        anchorOrigin={{ vertical: 'top', horizontal: 'center' }}
+      >
+        <Alert onClose={() => setSnackbarOpen(false)} severity="success" sx={{ width: '100%' }}>
+          {t('booking_request_sent_successfully')}
+          <br />
+          {t('we_will_contact_you_soon')}
+        </Alert>
+      </Snackbar>
       <Typography variant="h4" fontWeight={700} gutterBottom>
         {appartamentoData.name}
       </Typography>
@@ -99,6 +125,7 @@ const Apartament = () => {
             setBooking={setBooking}
             unavailableDates={unavailableDates}
             pricePerDay={appartamentoData.pricePerDay}
+            sendEmail={sendEmail}
           />
         </Grid>
         <Grid size={{ xs: 12, md: 12 }}>

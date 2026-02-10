@@ -80,5 +80,7 @@
   "please_check_fields": "Controlla tutti i campi obbligatori",
   "cancel": "Annulla",
   "booking_confirmation_note": "Nota: La prenotazione sarà confermata solo dopo la nostra approvazione. Ti contatteremo entro 24-48 ore per confermare la disponibilità e fornirti ulteriori dettagli.",
-  "captcha_required": "Controllo anti-bot fallito"
+  "captcha_required": "Controllo anti-bot fallito",
+  "booking_request_sent_successfully": "Richiesta di prenotazione inviata con successo.",
+  "we_will_contact_you_soon": "Vi contatteremo al più presto per la conferma."
 }

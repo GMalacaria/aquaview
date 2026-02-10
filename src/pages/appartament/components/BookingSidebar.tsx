@@ -13,6 +13,7 @@ export default function BookingSidebar({
   setBooking,
   unavailableDates,
   pricePerDay,
+  sendEmail,
 }) {
   const { t } = useTranslation();
   const [errorText, setErrorText] = useState('');
@@ -22,7 +23,7 @@ export default function BookingSidebar({
   const handleCloseModal = () => setModalOpen(false);
   const handleConfirm = (formData) => {
     setModalOpen(false);
-    console.log('Booking confirmed with data:', formData);
+    sendEmail(formData);
   };
 
   return (
